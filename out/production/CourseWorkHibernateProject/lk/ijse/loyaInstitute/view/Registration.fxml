@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="600.0" prefWidth="865.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.loyaInstitute.controller.RegistrationController">
+   <children>
+      <HBox layoutX="135.0" layoutY="52.0" prefHeight="100.0" prefWidth="200.0" AnchorPane.bottomAnchor="500.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <VBox prefHeight="100.0" prefWidth="865.0">
+               <children>
+                  <VBox prefHeight="100.0" prefWidth="643.0" style="-fx-background-radius: 20px;">
+                     <VBox.margin>
+                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                     </VBox.margin>
+                     <children>
+                        <Text fill="#f23c3c" strokeType="OUTSIDE" strokeWidth="0.0" text="REGISTRATION" textAlignment="CENTER" wrappingWidth="844.7295341491699">
+                           <font>
+                              <Font name="Ubuntu Mono" size="43.0" />
+                           </font>
+                        </Text>
+                        <Label fx:id="lblDate" prefHeight="16.0" prefWidth="92.0" />
+                     </children>
+                     <padding>
+                        <Insets top="10.0" />
+                     </padding>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <HBox layoutX="7.0" layoutY="99.0" prefHeight="501.0" prefWidth="865.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="99.0">
+         <children>
+            <VBox prefHeight="500.0" prefWidth="219.0" style="-fx-background-radius: 20px;">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" underline="true" wrappingWidth="173.37601470947266">
+                     <font>
+                        <Font name="Ubuntu" size="18.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets bottom="20.0" />
+                     </VBox.margin>
+                  </Text>
+                  <VBox prefHeight="429.0" prefWidth="178.0">
+                     <children>
+                        <JFXComboBox fx:id="cmbStudent" prefHeight="26.0" prefWidth="181.0" promptText="Select Student" style="-fx-background-color: #b20238;" unFocusColor="WHITE">
+                           <VBox.margin>
+                              <Insets bottom="50.0" />
+                           </VBox.margin></JFXComboBox>
+                        <JFXComboBox fx:id="cmbCourse" prefHeight="26.0" prefWidth="181.0" promptText="Select Course" style="-fx-background-color: #FBDE44FF;" unFocusColor="WHITE">
+                           <VBox.margin>
+                              <Insets bottom="50.0" />
+                           </VBox.margin></JFXComboBox>
+                        <JFXTextField fx:id="txtRegID" labelFloat="true" promptText="Registration ID" style="-fx-background-color: #2DA8D8FF;">
+                           <VBox.margin>
+                              <Insets bottom="50.0" />
+                           </VBox.margin>
+                        </JFXTextField>
+                        <JFXTextField fx:id="txtRegFee" labelFloat="true" promptText="Enter Fee :" style="-fx-background-color: #d9138a;">
+                           <VBox.margin>
+                              <Insets bottom="50.0" />
+                           </VBox.margin>
+                        </JFXTextField>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="500.0" prefWidth="214.0">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <VBox prefHeight="105.0" prefWidth="173.0">
+                     <children>
+                        <Text fill="#f20707" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-family: Ubuntu thin; -fx-font-size: 30px;" text="Student Detail">
+                           <VBox.margin>
+                              <Insets top="50.0" />
+                           </VBox.margin>
+                        </Text>
+                        <Label fx:id="lblDOB" prefHeight="16.0" prefWidth="198.0">
+                           <VBox.margin>
+                              <Insets />
+                           </VBox.margin></Label>
+                        <Label fx:id="lblContact" prefHeight="16.0" prefWidth="198.0" />
+                        <Label fx:id="lblAddress" prefHeight="16.0" prefWidth="198.0" />
+                        <Label fx:id="lblName" prefHeight="16.0" prefWidth="198.0" />
+                        <Label fx:id="lblGender" prefHeight="16.0" prefWidth="198.0" />
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="105.0" prefWidth="173.0">
+                     <children>
+                        <Text fill="RED" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-family: Ubuntu thin; -fx-font-size: 30px;" text="Course Details">
+                           <VBox.margin>
+                              <Insets />
+                           </VBox.margin>
+                        </Text>
+                        <Label fx:id="lblCourseName" prefHeight="16.0" prefWidth="198.0" />
+                        <Label fx:id="lblType" prefHeight="16.0" prefWidth="198.0" />
+                        <Label fx:id="lblDuration" prefHeight="16.0" prefWidth="198.0" />
+                     </children>
+                     <padding>
+                        <Insets top="60.0" />
+                     </padding>
+                  </VBox>
+                  <JFXButton fx:id="btnRegister" onAction="#registerONAction" prefHeight="72.0" prefWidth="188.0" style="-fx-background-color: purple; -fx-background-radius: 20px;" text="Registrer" textFill="WHITE">
+                     <VBox.margin>
+                        <Insets bottom="20.0" top="50.0" />
+                     </VBox.margin>
+                  </JFXButton>
+               </children>
+            </VBox>
+            <VBox prefHeight="500.0" prefWidth="434.0" style="-fx-background-color: #a0c0d8; -fx-background-radius: 20px;">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <children>
+                  <TableView fx:id="tblRegistration" prefHeight="200.0" prefWidth="200.0">
+                    <columns>
+                      <TableColumn fx:id="clmRegID" prefWidth="75.0" text="RegID" />
+                      <TableColumn fx:id="clmRegDate" prefWidth="75.0" text="Date" />
+                        <TableColumn fx:id="clmRegFee" prefWidth="75.0" text="Fee" />
+                        <TableColumn fx:id="clmStudentCode" prefWidth="75.0" text="Student" />
+                        <TableColumn fx:id="clmCourseCode" prefWidth="75.0" text="Course" />
+                    </columns>
+                  </TableView>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

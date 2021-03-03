@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7744e618-f925-47cd-b889-e9574dd3c8e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="courseworkhibernateproject@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="courseworkhibernateproject@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="courseworkhibernateproject@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="courseworkhibernateproject: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CourseWorkHibernateProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oE4VJYvtYNWDfDOLrgrgQdOQBO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lib/TrayTester.jar!/" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.loyaInstitute" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppInitializer">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.loyaInstitute.App" />
+      <module name="CourseWorkHibernateProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.loyaInstitute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.loyaInstitute.AppInitializer" />
+      <module name="CourseWorkHibernateProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.loyaInstitute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7744e618-f925-47cd-b889-e9574dd3c8e6" name="Default Changelist" comment="" />
+      <created>1612838437250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612838437250</updated>
+      <workItem from="1612838441162" duration="2018000" />
+      <workItem from="1612855708060" duration="4727000" />
+      <workItem from="1612871271799" duration="5386000" />
+      <workItem from="1612880047207" duration="1732000" />
+      <workItem from="1612882753692" duration="1110000" />
+      <workItem from="1612910057408" duration="539000" />
+      <workItem from="1612943532904" duration="8430000" />
+      <workItem from="1612952888406" duration="1918000" />
+      <workItem from="1612964742424" duration="4826000" />
+      <workItem from="1612998485652" duration="1295000" />
+      <workItem from="1613011089084" duration="3156000" />
+      <workItem from="1613022220944" duration="3435000" />
+      <workItem from="1613028793326" duration="1806000" />
+      <workItem from="1613033252740" duration="692000" />
+      <workItem from="1613037156001" duration="6436000" />
+      <workItem from="1613044348983" duration="1274000" />
+      <workItem from="1613049072773" duration="3931000" />
+      <workItem from="1613054763648" duration="4104000" />
+      <workItem from="1613084832375" duration="1093000" />
+      <workItem from="1613087146674" duration="379000" />
+      <workItem from="1613087852718" duration="2514000" />
+      <workItem from="1613090707235" duration="1794000" />
+      <workItem from="1613093043275" duration="3257000" />
+      <workItem from="1613097316848" duration="89000" />
+      <workItem from="1613099985052" duration="10637000" />
+      <workItem from="1613117790609" duration="106000" />
+      <workItem from="1613123871070" duration="5405000" />
+      <workItem from="1613139980995" duration="2251000" />
+      <workItem from="1613177842322" duration="2568000" />
+      <workItem from="1613184047904" duration="49000" />
+      <workItem from="1613184201044" duration="16336000" />
+      <workItem from="1613216875623" duration="686000" />
+      <workItem from="1613220173528" duration="3241000" />
+      <workItem from="1613226479851" duration="1880000" />
+      <workItem from="1613231148575" duration="2946000" />
+      <workItem from="1613265817948" duration="19106000" />
+      <workItem from="1613294878967" duration="3954000" />
+      <workItem from="1613299258144" duration="742000" />
+      <workItem from="1613300063908" duration="5437000" />
+      <workItem from="1613442634055" duration="1537000" />
+      <workItem from="1613489086443" duration="630000" />
+      <workItem from="1613542854688" duration="639000" />
+      <workItem from="1613552551951" duration="586000" />
+      <workItem from="1614573967440" duration="265000" />
+      <workItem from="1614574558876" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="54" width="800" height="671" key="#SQL_Dialects" timestamp="1613287545127">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="278" y="54" width="800" height="671" key="#SQL_Dialects/0.20.1366.748@0.20.1366.748" timestamp="1613287545127" />
+    <state x="278" y="48" width="800" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612838833525">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="278" y="48" width="800" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.20.1366.748@0.20.1366.748" timestamp="1612838833525" />
+    <state x="447" y="46" width="627" height="687" key="#com.intellij.ide.util.MemberChooser" timestamp="1613301622468">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="447" y="46" width="627" height="687" key="#com.intellij.ide.util.MemberChooser/0.20.1366.748@0.20.1366.748" timestamp="1613301622468" />
+    <state x="0" y="20" width="1356" height="742" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613277613853">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="0" y="20" width="1356" height="742" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.20.1366.748@0.20.1366.748" timestamp="1613277613853" />
+    <state x="416" y="143" width="524" height="493" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613301578571">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="416" y="143" width="524" height="493" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.20.1366.748@0.20.1366.748" timestamp="1613301578571" />
+    <state x="304" y="78" width="737" height="620" key="FileChooserDialogImpl" timestamp="1613489462515">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="304" y="78" width="737" height="620" key="FileChooserDialogImpl/0.20.1366.748@0.20.1366.748" timestamp="1613489462515" />
+    <state width="1324" height="107" key="GridCell.Tab.0.bottom" timestamp="1614574231569">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state width="1324" height="107" key="GridCell.Tab.0.bottom/0.20.1366.748@0.20.1366.748" timestamp="1614574231569" />
+    <state width="1324" height="107" key="GridCell.Tab.0.center" timestamp="1614574231566">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state width="1324" height="107" key="GridCell.Tab.0.center/0.20.1366.748@0.20.1366.748" timestamp="1614574231566" />
+    <state width="1324" height="107" key="GridCell.Tab.0.left" timestamp="1614574231565">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state width="1324" height="107" key="GridCell.Tab.0.left/0.20.1366.748@0.20.1366.748" timestamp="1614574231565" />
+    <state width="1324" height="107" key="GridCell.Tab.0.right" timestamp="1614574231567">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state width="1324" height="107" key="GridCell.Tab.0.right/0.20.1366.748@0.20.1366.748" timestamp="1614574231567" />
+    <state x="38" y="20" width="1280" height="748" key="SettingsEditor" timestamp="1613198207995">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="38" y="20" width="1280" height="748" key="SettingsEditor/0.20.1366.748@0.20.1366.748" timestamp="1613198207995" />
+    <state x="563" y="246" width="388" height="287" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1613304677014">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="563" y="246" width="388" height="287" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.20.1366.748@0.20.1366.748" timestamp="1613304677014" />
+    <state x="100" y="119" width="1166" height="548" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613178688388">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="100" y="119" width="1166" height="548" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.20.1366.748@0.20.1366.748" timestamp="1613178688388" />
+    <state x="299" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1614574570168">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="299" y="182" key="com.intellij.ide.util.TipDialog/0.20.1366.748@0.20.1366.748" timestamp="1614574570168" />
+    <state x="99" y="20" width="1157" height="742" key="new project wizard" timestamp="1614574603291">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="99" y="20" width="1157" height="742" key="new project wizard/0.20.1366.748@0.20.1366.748" timestamp="1614574603291" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1613186079089">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="347" y="175" key="run.anything.popup/0.20.1366.748@0.20.1366.748" timestamp="1613186079089" />
+    <state x="263" y="20" width="840" height="746" key="search.everywhere.popup" timestamp="1613220912611">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="263" y="20" width="840" height="746" key="search.everywhere.popup/0.20.1366.748@0.20.1366.748" timestamp="1613220912611" />
+  </component>
+</project>

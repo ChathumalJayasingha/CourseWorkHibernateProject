@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextArea?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="600.0" prefWidth="865.0" style="-fx-background-radius: 20px; -fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.loyaInstitute.controller.DefaultController">
+   <children>
+      <Text fill="#3c3939" layoutX="190.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-family: Roboto;" text="The Fastest and Easiest way to be a Graduate Software Engineer in Sri Lanka" underline="true" />
+      <AnchorPane layoutX="62.0" layoutY="142.0" prefHeight="57.0" prefWidth="744.0" style="-fx-background-radius: 20px; -fx-background-color: white;" AnchorPane.leftAnchor="62.0" AnchorPane.rightAnchor="33.0">
+         <children>
+            <HBox layoutX="28.0" layoutY="10.0" prefHeight="28.0" prefWidth="779.0" spacing="30.0" AnchorPane.leftAnchor="28.0" AnchorPane.rightAnchor="12.0" AnchorPane.topAnchor="10.0">
+               <children>
+                  <ImageView fx:id="imgDEP" fitHeight="35.0" fitWidth="170.0" onMouseEntered="#DEPOnMouseEnter" onMouseExited="#DEPOnMouseExit" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/direct-entry-program.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgCMJD" fitHeight="35.0" fitWidth="170.0" onMouseEntered="#CMJDOnMouseEnter" onMouseExited="#CMJDOnMouseExit" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/cmjd-professional.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgRWAD" fitHeight="35.0" fitWidth="170.0" onMouseEntered="#RWADOnMouseEnter" onMouseExited="#RWADOnMouseExit" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/rapid-web-application-developer.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgABSD" fitHeight="35.0" fitWidth="170.0" onMouseEntered="#ABSDOnMouseEnter" onMouseExited="#ABSDOnMouseExit" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/advanced-business-solution-developer.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="imgGDSE" fitHeight="35.0" fitWidth="170.0" onMouseEntered="#GDSEOnMouseEnter" onMouseExited="#GDSEOnMouseExit" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/graduate-diploma-in-software-engineering.png" />
+                     </image>
+                  </ImageView>
+               </children>
+               <padding>
+                  <Insets top="2.0" />
+               </padding>
+            </HBox>
+         </children>
+      </AnchorPane>
+      <Text fx:id="txtPrograms" fill="#ff2b00" layoutX="190.0" layoutY="218.0" lineSpacing="2.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-family: Roboto; -fx-font-size: 20px; -fx-text-alignment: center;" wrappingWidth="504.1879692673683" />
+      <ImageView fitHeight="74.0" fitWidth="58.0" layoutX="327.0" layoutY="250.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/engineers.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="74.0" fitWidth="58.0" layoutX="499.0" layoutY="250.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/experience.png" />
+         </image>
+      </ImageView>
+      <Text fill="#d7bbbb" layoutX="239.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to Royal Institute">
+         <font>
+            <Font name="Ubuntu Mono Bold" size="32.0" />
+         </font>
+      </Text>
+      <Text layoutX="271.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The Home of Engineering in Sri Lanka">
+         <font>
+            <Font name="Ubuntu Mono" size="14.0" />
+         </font>
+      </Text>
+      <Line endX="166.0" layoutX="430.0" layoutY="362.0" startX="-162.0" />
+      <Line endX="-211.0" endY="134.0" layoutX="664.0" layoutY="204.0" startX="-211.0" startY="32.66667175292969" />
+      <Text fill="RED" layoutX="334.0" layoutY="324.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4600+" />
+      <Text fill="RED" layoutX="293.0" layoutY="341.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Software Enginners" />
+      <Text fill="RED" layoutX="506.0" layoutY="324.0" strokeType="OUTSIDE" strokeWidth="0.0" text="13 Yeasrs" />
+      <Text fill="RED" layoutX="499.0" layoutY="341.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Experience" wrappingWidth="76.1572265625" />
+      <JFXTextArea editable="false" focusColor="WHITE" layoutX="49.0" layoutY="376.0" prefHeight="179.0" prefWidth="445.0" style="-fx-font-family: Ubuntu; -fx-font-weight: lighter;" text="Our mission being “Contributing most capable and reliable software engineers with profound knowledge in most recent technologies who can match up to demands of ever-evolving IT industry”, IJSE has contributed more than 4300 skillful IT professionals occupying many eminent positions in numerous reputed companies in Sri Lanka. IJSE, being one of the leading IT education providers in Sri Lanka has been focusing on enhancing the skills and attitudes which are desperately sought by the IT industry ever since its inception in 2006 with our most exquisite Software Engineering courses in Sri Lanka.&#10;&#10;Considering the rapidly evolving technology, advancing in the IT industry and obtaining a degree in software engineering from IJSE will expose you to many possibilities that can lead you to a bright future. Distinguished as the only Oracle authorized training center in Sri Lanka, regardless of whether you are an after A/L student, an Undergraduate, Graduate or an IT Professional, IJSE offers a variety of programs in computing. Due to its unique Software Engineering courses and Training programs, IJSE is undoubtedly the best place to start your IT career in Software Industry. With our Software Engineering courses and degree programs, IJSE is guaranteed to provide you with a solid foundation for you to obtain a stable foothold for your future job." unFocusColor="WHITE" />
+      <ImageView fitHeight="213.0" fitWidth="311.0" layoutX="520.0" layoutY="376.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image/institute.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
